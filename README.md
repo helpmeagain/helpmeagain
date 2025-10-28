@@ -1,36 +1,31 @@
-# 🌙 Hello, welcome to my profile 🌙
-
-
-<h3>⭐ Most used languages</h3>
+I’m a Software Developer with a Bachelor’s degree in Information Systems. Here, I share my personal projects built for learning, personal initiatives, and professional purposes. You can learn more or get in touch through the links below.
 <table>
   <thead>
     <tr align="center">
-      <th>Programming languages</th>
-      <th>Markup & Style languages</th>
+      <th>💻 Languages</th>
+      <th>🗄️ Databases</th>
+      <th>⚙️ Frameworks & Tools</th>
     </tr>
   </thead>
   <tbody align="center">
     <tr>
       <td><img src="https://skillicons.dev/icons?i=cs,js,ts,py" alt="C#, JavaScript, TypeScript, Python"/></td>
-      <td><img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="HTML, CSS"/></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB"/></td>
+      <td><img src="https://skillicons.dev/icons?i=dotnet,express,nest,react,vue,angular,next,nuxt,godot" alt=".NET, Express, NestJS, React, Vue, Angular, Next.js, Nuxt.js, Godot"/></td>
     </tr>
   </tbody>
 </table>
 
-<h3>⭐ Most used technologies</h3>
-<table>
-  <thead>
-    <tr align="center">
-      <th>Databases</th>
-      <th>Framework & Libraries</th>
-      <th>Game Engine</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr align="center">
-      <td><img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres" alt="SQLite, MongoDB, MySQL, Postgres"/></td>
-      <td><img src="https://skillicons.dev/icons?i=dotnet,express,nest,react" alt=".NET, Express, NestJS, React"/></td>
-      <td><img src="https://skillicons.dev/icons?i=godot" alt=" Godot"</td> 
-    </tr>
-  </tbody>
-</table>
+<div>
+  <a href="https://helpmeagain.github.io/" alt="Email">
+  <img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=htmx&logoColor=white" target="_blank"></a>
+  
+  <a href="https://helpmeagain.github.io/curriculum-vitae/" alt="Email">
+  <img src="https://img.shields.io/badge/-curriculum-008000?style=for-the-badge&logo=googledocs&logoColor=white" target="_blank"></a>
+  
+  <a href="mailto:felipe.marques.desenvolvedor@gmail.com" alt="Email">
+  <img src="https://img.shields.io/badge/Email-DE3163?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/felipecomarques" target="_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
